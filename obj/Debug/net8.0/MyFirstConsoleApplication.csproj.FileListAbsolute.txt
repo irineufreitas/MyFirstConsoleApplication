@@ -1,0 +1,14 @@
+/Users/admin/MyFirstConsoleApplication/bin/Debug/net8.0/MyFirstConsoleApplication
+/Users/admin/MyFirstConsoleApplication/bin/Debug/net8.0/MyFirstConsoleApplication.deps.json
+/Users/admin/MyFirstConsoleApplication/bin/Debug/net8.0/MyFirstConsoleApplication.runtimeconfig.json
+/Users/admin/MyFirstConsoleApplication/bin/Debug/net8.0/MyFirstConsoleApplication.dll
+/Users/admin/MyFirstConsoleApplication/bin/Debug/net8.0/MyFirstConsoleApplication.pdb
+/Users/admin/MyFirstConsoleApplication/obj/Debug/net8.0/MyFirstConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/MyFirstConsoleApplication/obj/Debug/net8.0/MyFirstConsoleApplication.AssemblyInfoInputs.cache
+/Users/admin/MyFirstConsoleApplication/obj/Debug/net8.0/MyFirstConsoleApplication.AssemblyInfo.cs
+/Users/admin/MyFirstConsoleApplication/obj/Debug/net8.0/MyFirstConsoleApplication.csproj.CoreCompileInputs.cache
+/Users/admin/MyFirstConsoleApplication/obj/Debug/net8.0/MyFirstConsoleApplication.dll
+/Users/admin/MyFirstConsoleApplication/obj/Debug/net8.0/refint/MyFirstConsoleApplication.dll
+/Users/admin/MyFirstConsoleApplication/obj/Debug/net8.0/MyFirstConsoleApplication.pdb
+/Users/admin/MyFirstConsoleApplication/obj/Debug/net8.0/MyFirstConsoleApplication.genruntimeconfig.cache
+/Users/admin/MyFirstConsoleApplication/obj/Debug/net8.0/ref/MyFirstConsoleApplication.dll
