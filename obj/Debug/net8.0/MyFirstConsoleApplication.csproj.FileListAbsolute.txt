@@ -12,3 +12,4 @@
 /Users/admin/MyFirstConsoleApplication/obj/Debug/net8.0/MyFirstConsoleApplication.pdb
 /Users/admin/MyFirstConsoleApplication/obj/Debug/net8.0/MyFirstConsoleApplication.genruntimeconfig.cache
 /Users/admin/MyFirstConsoleApplication/obj/Debug/net8.0/ref/MyFirstConsoleApplication.dll
+/Users/admin/MyFirstConsoleApplication/obj/Debug/net8.0/MyFirstConsoleApplication.sourcelink.json
